@@ -1,0 +1,15 @@
+.storybook
+public
+dist
+.husky
+node_modules
+specs
+mocks
+__snapshots__
+*.md
+*.html
+.babelrc
+/*
+!/src/
+src/documentation
+src/**/*.png

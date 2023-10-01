@@ -11,3 +11,11 @@ Run project:-
 ### `npm test`
 ### `npm run build`
 
+
+
+# Things ot understand better
+1. tsconfig-paths-webpack-plugin
+2. compression-webpack-plugin
+3. copy-webpack-plugin
+4. speed-measure-webpack-plugin
+
